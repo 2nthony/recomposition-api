@@ -2,14 +2,9 @@
 
 ---
 
-# my-ts-lib
+# recomposition-api
 
-[![version](https://img.shields.io/npm/v/my-ts-lib?label=&color=29BC9B)](https://npm.im/my-ts-lib) [![downloads](https://img.shields.io/npm/dm/my-ts-lib?label=&color=29BC9B)](https://npm.im/my-ts-lib)
-
-## Using this template
-
-- Search `my-ts-lib` and replace it with your custom package name.
-- Search `2nthony` and replace it with your name.
+[![version](https://img.shields.io/npm/v/recomposition-api?label=&color=29BC9B)](https://npm.im/recomposition-api) [![downloads](https://img.shields.io/npm/dm/recomposition-api?label=&color=29BC9B)](https://npm.im/recomposition-api)
 
 Features:
 
@@ -23,7 +18,7 @@ To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, ad
 ## Install
 
 ```bash
-npm i my-ts-lib
+npm i recomposition-api
 ```
 
 ## Sponsors
