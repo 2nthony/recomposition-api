@@ -12,6 +12,7 @@
   "files": [
     "dist"
   ],
+  "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "exports": {
