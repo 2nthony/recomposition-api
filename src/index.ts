@@ -1,1 +1,2 @@
-export const foo = "foo";
+export * from "./shared";
+export * from "./hooks";
