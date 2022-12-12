@@ -1,13 +1,8 @@
-# recomposition-api <sup>POC</sup>
+# recomposition-api
 
 [![version](https://img.shields.io/npm/v/recomposition-api?label=&color=29BC9B)](https://npm.im/recomposition-api) [![downloads](https://img.shields.io/npm/dm/recomposition-api?label=&color=29BC9B)](https://npm.im/recomposition-api)
 
-Make react hooks FEELS like Vue compostion API and VueUse.  
-Just change the usage, not a real Vue reactivity system, you can try [reactivue](https://github.com/antfu/reactivue) if you wish.
-
-## WARNING 🙅🏻‍♂️
-
-ONLY tested in a demo app with __non-strict__ mode, means may have a bulk of bugs.
+POC
 
 ## Install
 
