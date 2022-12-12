@@ -18,21 +18,21 @@ npm i recomposition-api
 ## Usage
 
 ```ts
-import { useState } from "react"
-import { useWatch } from "recomposition-api"
+import { useState } from 'react';
+import { useWatch } from 'recomposition-api';
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [count, setCount] = useState(0);
 
   useWatch(count, (val, oldVal) => {
-    console.log(val, oldVal)
-  })
+    console.log(val, oldVal);
+  });
 
   return (
     <div>
-      <button onClick={() => setCount(count++)}>{count}</button>
+      <button onClick={() => setCount(count + 1)}>{count}</button>
     </div>
-  )
+  );
 }
 ```
 
