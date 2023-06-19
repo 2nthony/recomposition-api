@@ -30,7 +30,7 @@
     "react": "^18.2.0"
   },
   "devDependencies": {
-    "@2nthony/prettier-config": "1.0.1",
+    "@2nthony/prettier-config": "1.0.2",
     "@types/react": "^18.0.26",
     "prettier": "2.7.1",
     "react": "^18.2.0",
