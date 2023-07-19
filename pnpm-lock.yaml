@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@2nthony/prettier-config': 1.0.1
+  '@2nthony/prettier-config': 2.0.2
   '@types/react': ^18.0.26
   prettier: 2.7.1
   react: ^18.2.0
@@ -10,7 +10,7 @@ specifiers:
   vitest: 0.12.6
 
 devDependencies:
-  '@2nthony/prettier-config': 1.0.1
+  '@2nthony/prettier-config': 2.0.2
   '@types/react': 18.0.26
   prettier: 2.7.1
   react: 18.2.0
@@ -20,8 +20,8 @@ devDependencies:
 
 packages:
 
-  /@2nthony/prettier-config/1.0.1:
-    resolution: {integrity: sha512-GRIHMYFWAfmIGDt9A1LiwoVCd6UoB4WEhqzk7nU4t4VDiXPeO7WAoovkKw3YVEz94gMeo044yLuTiug4EIPFSA==}
+  /@2nthony/prettier-config/2.0.2:
+    resolution: {integrity: sha512-QM8YHa3IyTZXQCa0079wHv8wmlWHpebZPknyntM27ctWEP/6Bm8LJQv7TNocBgLoVXsP7Nif8dWNtB6+i0c5HA==}
     dev: true
 
   /@esbuild/android-arm/0.15.18:
