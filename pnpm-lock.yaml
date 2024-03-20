@@ -6,7 +6,7 @@ specifiers:
   prettier: 2.7.1
   react: ^18.2.0
   tsup: 6.5.0
-  typescript: 4.5.4
+  typescript: 5.4.3
   vitest: 0.12.6
 
 devDependencies:
@@ -14,8 +14,8 @@ devDependencies:
   '@types/react': 18.0.26
   prettier: 2.7.1
   react: 18.2.0
-  tsup: 6.5.0_typescript@4.5.4
-  typescript: 4.5.4
+  tsup: 6.5.0_typescript@5.4.3
+  typescript: 5.4.3
   vitest: 0.12.6
 
 packages:
@@ -1157,7 +1157,7 @@ packages:
     resolution: {integrity: sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==}
     dev: true
 
-  /tsup/6.5.0_typescript@4.5.4:
+  /tsup/6.5.0_typescript@5.4.3:
     resolution: {integrity: sha512-36u82r7rYqRHFkD15R20Cd4ercPkbYmuvRkz3Q1LCm5BsiFNUgpo36zbjVhCOgvjyxNBWNKHsaD5Rl8SykfzNA==}
     engines: {node: '>=14'}
     hasBin: true
@@ -1187,7 +1187,7 @@ packages:
       source-map: 0.8.0-beta.0
       sucrase: 3.24.0
       tree-kill: 1.2.2
-      typescript: 4.5.4
+      typescript: 5.4.3
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -1198,9 +1198,10 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /typescript/4.5.4:
-    resolution: {integrity: sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==}
-    engines: {node: '>=4.2.0'}
+  /typescript/5.4.3:
+    resolution: {integrity: sha512-KrPd3PKaCLr78MalgiwJnA25Nm8HAmdwN3mYUYZgG/wizIo9EainNVQI9/yDavtVFRN2h3k8uf3GLHuhDMgEHg==}
+    engines: {node: '>=14.17'}
+    hasBin: true
     dev: true
 
   /vite/2.9.14:
